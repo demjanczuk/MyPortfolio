@@ -1,46 +1,23 @@
-.page-title {
-    color: rgb(47, 110, 73);
+.blue {
+    color: rgba(255, 255, 0, 5);
+    color: black;
+    color: hsla(0, 100%, 50%, 0);
 }
 
-.page-title>h1 {
-    margin-bottom: 0%;
+h1 {
+    color: green;
 }
 
-.page-title>h3 {
-    margin-top: 0%;
+body {
+    color: red;
+    font-size: 40px;
 }
 
-.button {
-    background-color: green;
-    border: none;
-    color: white;
-    border-radius: 20px;
-    padding: 5px 15px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 14px;
-}
-
-.text-brown {
-    color: rgb(143, 93, 19);
-}
-
-footer {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-}
-
-.paragraph {
-    color: rgb(42, 109, 136);
-}
-
-.text-gray {
-    color: darkgray;
-}
-
-.text-green {
-    color: darkgreen;
+.box {
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: red;
 }
